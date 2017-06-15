@@ -1,7 +1,7 @@
 # Royale-Mods
 CSV and SC mods for Clash Royale
 
-### Installation Instructions
+### Installation Instructions:
 For Android:
 1. Turn on Unknown Sources
 2. Install the APK
