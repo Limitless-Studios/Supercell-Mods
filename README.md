@@ -1,5 +1,7 @@
 # Royale-Mods
-CSV and SC mods for Clash Royale
+Client-side cosmetic CSV and SC mods for Clash Royale.
+
+These mods DO NOT modify gameplay. 
 
 ### Installation Instructions:
 For Android:
