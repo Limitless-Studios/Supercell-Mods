@@ -4,7 +4,7 @@ Client-side cosmetic CSV and SC mods for Clash Royale.
 These mods DO NOT modify gameplay in any way, just change some of the looks and texts of the game. 
 
 #### Not associated with Supercell.
-
+#
 ### Installation Instructions:
 For Android:
 1. Turn on Unknown Sources
