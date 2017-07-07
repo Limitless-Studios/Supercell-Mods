@@ -10,7 +10,7 @@ Clash Royale mods are available and more are being worked on.
 
 Brawl Stars mods not available yet. 
 
-## Mod Request
+## Mod Requests
 Feel free to send a mod request to Opum, preferably in a Twitter DM (@TheNewOpum), or an email thenewopum@gmail.com
 
 Make sure to keep it reasonable! 
