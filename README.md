@@ -4,12 +4,12 @@ Client-side cosmetic CSV and SC mods for Supercell's games.
 These mods DO NOT modify gameplay in any way, just change some of the textures and texts of the game. 
 
 #### Not associated with Supercell.
-#
+
 ## Status: 
 Clash Royale mods are available and more are being worked on.
 
 Brawl Stars mods not available yet. 
-#
+
 ## Installation Instructions:
 
 For Android:
