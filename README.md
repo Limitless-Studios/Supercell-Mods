@@ -5,12 +5,12 @@ These mods DO NOT modify gameplay in any way, just change some of the textures a
 
 #### Not associated with Supercell.
 #
-#### Status: 
+## Status: 
 Clash Royale mods are available and more are being worked on.
 
 Brawl Stars mods not available yet. 
 #
-### Installation Instructions:
+## Installation Instructions:
 
 For Android:
 1. Turn on Unknown Sources
