@@ -3,6 +3,8 @@ Client-side cosmetic CSV and SC mods for Supercell's games.
 
 These mods DO NOT modify gameplay in any way, just change some of the textures and texts of the game. 
 
+##### Check the Wiki tab for Installation Instructions.
+
 #### Not associated with Supercell.
 
 ## Status: 
@@ -14,17 +16,3 @@ Brawl Stars mods not available yet.
 Feel free to send a mod request to Opum, preferably in a Twitter DM (@TheNewOpum), or an email thenewopum@gmail.com
 
 Make sure to keep it reasonable! 
-
-## Installation Instructions:
-
-For Android:
-1. Turn on Unknown Sources
-2. Install the APK
-
-For iOS:
-1. Download Cydia Impactor from here: www.cydiaimpactor.com
-2. Open the program
-3. Drag the IPA file into the program window
-4. Enter your Apple ID and password
-5. Wait about 1-2 minutes
-6. Trust the app in Settings
