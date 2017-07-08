@@ -3,7 +3,7 @@ Client-side cosmetic CSV and SC mods for Supercell's games.
 
 These mods DO NOT modify gameplay in any way, just change some of the textures and texts of the game. 
 
-#### Not associated with Supercell.
+#### This content is NOT affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.
 
 ## Status: 
 Clash Royale mods are available and more are being worked on.
